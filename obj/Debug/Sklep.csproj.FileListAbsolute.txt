@@ -1,0 +1,13 @@
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\bin\Debug\Sklep.exe.config
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\bin\Debug\Sklep.exe
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\bin\Debug\Sklep.pdb
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\obj\Debug\Sklep.faktury.resources
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\obj\Debug\Sklep.Form1.resources
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\obj\Debug\Sklep.pracownicy.resources
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\obj\Debug\Sklep.produkty.resources
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\obj\Debug\Sklep.Properties.Resources.resources
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\obj\Debug\Sklep.csproj.GenerateResource.Cache
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\obj\Debug\Sklep.csproj.CoreCompileInputs.cache
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\obj\Debug\Sklep.exe
+C:\Users\nercz\Desktop\Sklep\Sklep\Sklep\obj\Debug\Sklep.pdb

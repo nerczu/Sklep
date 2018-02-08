@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WcfServiceLibrary1" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WcfServiceLibrary1" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="CompositeType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="BoolValue" type="xs:boolean" />
+      <xs:element minOccurs="0" name="StringValue" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CompositeType" nillable="true" type="tns:CompositeType" />
+  <xs:complexType name="produkt">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Brutto" type="xs:float" />
+      <xs:element minOccurs="0" name="ID" type="xs:int" />
+      <xs:element minOccurs="0" name="Ilosc" type="xs:float" />
+      <xs:element minOccurs="0" name="Kat" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Nazwa" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Netto" type="xs:float" />
+      <xs:element minOccurs="0" name="Vat" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="produkt" nillable="true" type="tns:produkt" />
+</xs:schema>
